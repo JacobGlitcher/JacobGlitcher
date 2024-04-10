@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Armenia | convergent thinker</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
-- 🌱 I’m currently learning **Firebase and mastering VueJS/TS**
+- 🌱 I’m currently **mastering ReactJS/TS and VueJS/TS**
 
 - ⚡ Why do I love programming? **I am passionate about technology and I like to use my free time to learn new things and explore new possibilities. I do this by developing demo projects with different technologies and reading tech articles.**
 
